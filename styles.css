@@ -1,0 +1,57 @@
+/*Navigation Bar Styles*/
+.navbar{
+    display: flex;
+    border: 1px solid black; 
+    height: 90px;
+}
+
+/*YouTube Logo Styles*/
+.logo{
+    margin-top: -13px;
+    margin-left: 50px;
+}
+
+/*Search Box Icon, create Video Icon, Notification Icon And Profile Icon Section Styles*/
+.icon{
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+}
+
+/*Search Bar, Search Icon And mic Icon Section Styles*/
+.push{
+    margin-left: auto;
+    font-size: large;
+}
+
+.searchbox{
+    width: 500px;
+    border-radius: 30px;
+}
+
+.searchbtn{
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: -20px;
+    width: 80px;
+    height: 46px;
+    margin-top: 30px;
+}
+
+.micbtn{
+    border-radius: 100px;
+    margin-left: 15px;
+    height: 46px;
+    margin-top: 30px;
+}
+
+/*Create Video, Notification Icon And Profile Icon Section Styles*/
+.createvidbtn{
+    margin-left: auto;
+}
+
+.righticonsbtn{
+    margin-right: 20px;
+    background-color: white;
+    border: 1px solid white;
+}
