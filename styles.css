@@ -56,11 +56,13 @@
     border: 1px solid white;
 }
 
-
+/*Main Section Styles*/
 .main_container{
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 10px;
+    margin-left: 150px;
+    gap: 50px;
 }
 
 .side_section_container{
@@ -75,8 +77,8 @@
 }
 
 iframe{
-    height: 500px;
-    width: 1000px;
+    height: 700px;
+    width: 1100px;
 }
 
 .flex_sub_container{
