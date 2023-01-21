@@ -92,6 +92,8 @@ iframe{
 
 .flex_btn_two{
     display: flex;
+    border-radius: 50px;
+    border: 1px solid white;
 }
 
 .left_push{
