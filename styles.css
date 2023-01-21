@@ -87,6 +87,7 @@ iframe{
 
 .flex_btn_one{
     display: flex;
+    height: 50px;
 }
 
 .flex_btn_two{
@@ -95,4 +96,10 @@ iframe{
 
 .left_push{
     margin-left: 100px;
+}
+
+.icon_img{
+    padding: 15px;
+    height: auto;
+    width: 20px;
 }
