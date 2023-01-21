@@ -94,6 +94,7 @@ iframe{
     display: flex;
     border-radius: 50px;
     border: 1px solid white;
+    padding-right: 20px;
 }
 
 .left_push{
@@ -104,4 +105,14 @@ iframe{
     padding: 15px;
     height: auto;
     width: 20px;
+}
+
+.icons_txt_font_size{
+    font-size: larger;
+    font-weight: 600px;
+}
+
+.dot_btn{
+    border-radius: 50px;
+    border: 1px solid white;
 }
