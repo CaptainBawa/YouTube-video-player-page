@@ -94,8 +94,8 @@ iframe{
     display: flex;
     border-radius: 50px;
     border: 1px solid white;
-   /* padding-right: 20px;*/
-    margin-left: 18px;
+    padding-right: 20px;
+    margin-left: 15px;
 }
 
 .left_push{
@@ -119,3 +119,8 @@ iframe{
     margin-left: 15px;
 }
 
+.channel_logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+}
