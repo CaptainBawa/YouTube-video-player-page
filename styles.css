@@ -94,11 +94,12 @@ iframe{
     display: flex;
     border-radius: 50px;
     border: 1px solid white;
-    padding-right: 20px;
+   /* padding-right: 20px;*/
+    margin-left: 18px;
 }
 
 .left_push{
-    margin-left: 100px;
+    margin-left: 130px;
 }
 
 .icon_img{
@@ -115,4 +116,6 @@ iframe{
 .dot_btn{
     border-radius: 50px;
     border: 1px solid white;
+    margin-left: 15px;
 }
+
