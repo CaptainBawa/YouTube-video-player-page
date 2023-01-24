@@ -57,6 +57,7 @@
     border: white;
 }
 
+
 /*Main Section Styles*/
 .main_container{
     display: flex;
@@ -72,23 +73,22 @@
     margin-top: 10px;  
 }
 
-.side_section_images{
-    height: 130px;
-    width: 250px;
-    border-radius: 30px;
-    margin-right: 10px;
-    
-}
-
-iframe{
-    height: 600px;
-    width: 1100px;
-}
-
 .flex_sub_container{
     display: flex;
 }
 
+.left_push{
+    margin-left: 100px;
+}
+
+.name_subs_container{
+    margin-left: 10px;
+    margin-right: 16px;
+    margin-top: -20px;
+}
+
+
+/*Main Section Buttons Styles*/
 .flex_btn_one{
     display: flex;
     height: 50px;
@@ -101,19 +101,11 @@ iframe{
     padding-right: 20px;
 }
 
-.left_push{
-    margin-left: 100px;
-}
-
-.icon_img{
-    padding: 15px;
-    height: auto;
-    width: 20px;
-}
-
-.icons_txt_font_size{
-    font-size: larger;
-    font-weight: 600px;
+.side_section_btn{
+    border-radius: 10px;
+    border: white;
+    margin-bottom: 15px;
+    margin-right: 10px;
 }
 
 .dot_btn{
@@ -122,16 +114,83 @@ iframe{
     margin-left: 15px;
 }
 
+.side_section_btn_two{
+    height: 20px;
+    width: 40px; 
+}
+
+.sort_btn{
+    background-color: white;
+    border:white;
+    font-size: 20px;
+}
+
+
+/*Main Section img, video and logo styles*/
+iframe{
+    height: 600px;
+    width: 1100px;
+}
+
+.side_section_images{
+    height: 130px;
+    width: 250px;
+    border-radius: 30px;
+    margin-right: 10px;  
+}
+
 .channel_logo{
     height: 50px;
     width: 50px;
     border-radius: 30px;
 }
 
-.name_subs_container{
-    margin-left: 10px;
-    margin-right: 16px;
+.icon_img{
+    padding: 15px;
+    height: auto;
+    width: 20px;
+}
+
+.sort_img{
+    margin-right: 10px;
+    height: auto;
+    width: 20px;
+}
+
+
+/*Comments Section Styles*/
+.comments_container_two{
+    display: flex;
+    gap: 10px;
     margin-top: -20px;
+}
+
+.comments_container{
+    display: flex;
+    gap: 50px;
+}
+
+.comments{
+    font-size: 20px;
+}
+
+.add_comments{
+    border:white;
+    margin-top: 25px;
+    font-size: 20px;
+    text-decoration-line: underline;
+}
+
+.views{
+    margin-bottom: -1px;
+}
+
+
+
+/*Other Section Styles*/
+.icons_txt_font_size{
+    font-size: larger;
+    font-weight: 600px;
 }
 
 .channel_name{
@@ -162,12 +221,6 @@ iframe{
     margin-top: -7px;
 }
 
-.side_section_btn{
-    border-radius: 10px;
-    border: white;
-    margin-bottom: 15px;
-    margin-right: 10px;
-}
 
 .white_bg{
     background-color: white;
@@ -187,11 +240,6 @@ iframe{
     margin-top: -15px;
 }
 
-.side_section_btn_two{
-    height: 20px;
-    width: 40px; 
-}
-
 .white_txt{
     color: white;
 }
@@ -200,43 +248,10 @@ iframe{
     background-color: black;
 }
 
-.comments_container{
-    display: flex;
-    gap: 50px;
-}
 
-.comments_container_two{
-    display: flex;
-    gap: 10px;
-    margin-top: -20px;
-}
 
-.comments{
-    font-size: 20px;
-}
 
-.add_comments{
-    border:white;
-    margin-top: 25px;
-    font-size: 20px;
-    text-decoration-line: underline;
-}
 
-.sort_btn{
-    background-color: white;
-    border:white;
-    font-size: 20px;
-}
-
-.sort_img{
-    margin-right: 10px;
-    height: auto;
-    width: 20px;
-}
-
-.views{
-    margin-bottom: -1px;
-}
 
 
 
