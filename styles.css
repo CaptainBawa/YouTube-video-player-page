@@ -2,6 +2,7 @@
 .navbar{
     display: flex;
     height: 90px;
+    margin-top: -20px;
 }
 
 /*YouTube Logo Styles*/
