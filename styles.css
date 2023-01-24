@@ -1,7 +1,6 @@
 /*Navigation Bar Styles*/
 .navbar{
     display: flex;
-    border: 1px solid black;
     height: 90px;
 }
 
@@ -188,6 +187,14 @@ iframe{
 .side_section_btn_two{
     height: 20px;
     width: 40px;  
+}
+
+.white_txt{
+    color: white;
+}
+
+.black_bg{
+    background-color: black;
 }
 
 
