@@ -65,7 +65,7 @@
     gap: 50px;
 }
 
-.side_section_container{
+.side_section_content_container{
     display: flex;
 }
 
@@ -157,3 +157,20 @@ iframe{
 .txt_margin_top{
     margin-top: -7px;
 }
+
+.side_section_btn{
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.white_bg{
+    background-color: white;
+}
+
+.side_section_txt{
+    font-size: 15px;
+    font-weight: 50px;
+}
+
