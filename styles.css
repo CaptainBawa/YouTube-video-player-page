@@ -69,6 +69,7 @@
 
 .side_section_content_container{
     display: flex;
+    margin-top: 10px;  
 }
 
 .side_section_images{
@@ -188,7 +189,7 @@ iframe{
 
 .side_section_btn_two{
     height: 20px;
-    width: 40px;  
+    width: 40px; 
 }
 
 .white_txt{
@@ -231,6 +232,10 @@ iframe{
     margin-right: 10px;
     height: auto;
     width: 20px;
+}
+
+.views{
+    margin-bottom: -1px;
 }
 
 
