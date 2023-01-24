@@ -38,7 +38,8 @@
 }
 
 .micbtn{
-    border-radius: 100px;
+    background-color: white;
+    border: 1px solid white;
     margin-left: 15px;
     height: 46px;
     margin-top: 30px;
