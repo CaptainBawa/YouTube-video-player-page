@@ -1,6 +1,7 @@
 /*Navigation Bar Styles*/
 .navbar{
     display: flex;
+    border: 1px solid black;
     height: 90px;
 }
 
